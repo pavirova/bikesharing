@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 
 Tableau Analysis:
 [link to dashboard](https://public.tableau.com/profile/paola5421#!/vizhome/CitibikeNYAnalysis/NYCCitibikeAnalysis?publish=yes)
